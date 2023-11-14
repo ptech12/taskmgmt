@@ -23,7 +23,7 @@ public class TaskController {
 
     @GetMapping("/")
     public String sayHello(){
-        return String.format(" Get: http://127.0.0.1:8080/alltasks");
+        return String.format("Hello From /");
     }
 
     @GetMapping("/alltasks")
