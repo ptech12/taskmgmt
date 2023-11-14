@@ -37,7 +37,8 @@ Get a task by an id parameter
 ```
 The save task method uses post mapping. It gets a task body as an input and stores into the DB.
 ![save task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/saveTask.png)
-![new save task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/newAllTask.png)
+After saving new Task
+![new save task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/newAllTasks.png)
 
 ### Change Status
 ```
@@ -48,7 +49,9 @@ The save task method uses post mapping. It gets a task body as an input and stor
 ```
 The Change status method uses PUT method to update the status of the task by getting id as a parameters and the whole task body as input.
 ![Change Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/changeStatus.png)
+Before Change Task
 ![Before Change Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/beforeChange.png)
+After Change Task
 ![After Change Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/afterChange.png)
 
 
@@ -61,5 +64,7 @@ The Change status method uses PUT method to update the status of the task by get
 ```
 This deletes the entire task using the delete mapping
 ![Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/deleteTask.png)
+Before delete Task
 ![Before delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/beforeDelete.png)
+After delete Task
 ![After Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/afterDelete.png)
