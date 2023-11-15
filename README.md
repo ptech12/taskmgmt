@@ -66,9 +66,3 @@ This deletes the entire task using the delete mapping
 ![Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/deleteTask.png)
 Before delete Task
 ![Before delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/beforeDelete.png)
-<<<<<<< HEAD
-After delete Task
-![After Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/afterDelete.png)
-=======
-![After Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/afterDelete.png) -->
->>>>>>> 1734de6 (Modified for master)
