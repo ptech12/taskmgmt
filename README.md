@@ -4,7 +4,7 @@ A simple task management application using Spring boot that performs CRUD operat
 
 ## CRUD 
 CRUD stands for Create, Read, Update and Delete. As the name suggests it performs the related operations on the relational database and mapped to standard HTTP method.
-<!-- 
+
 ## Operations
 
 ### Get All Tasks
