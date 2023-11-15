@@ -62,7 +62,3 @@ After Change Task
         taskService.deleteTask(id);
     }
 ```
-This deletes the entire task using the delete mapping
-![Delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/deleteTask.png)
-Before delete Task
-![Before delete Task](https://github.com/ptech12/taskmgmt/blob/master/src/imgs/beforeDelete.png)
